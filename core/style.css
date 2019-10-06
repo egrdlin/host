@@ -1,21 +1,6 @@
 body {
     background-color: #dbf3bb;
   }
-  
-  #laker {
-      width: auto
-  }
-
-.table1 th, .table1 td,.table1{
-      background-color: rgb(194, 212, 159);
-      border-collapse: collapse;
-      border: 2px solid black;
-      text-align: center;
-  }
-  .table1
-  {
-      width: 50%;
-  }
 
   #footer-logo
   {
