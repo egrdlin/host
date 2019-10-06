@@ -1,10 +1,8 @@
 body {
-    background-color: #c6d3b5;
-  }
+    background-color: #e8eecff3;
 
-  /* #footer-logo
+#footer-logo
   {
-      width: 325 px;
-      height: 128 px;
-
-  } */
+    display: inline-block;
+    
+  } 
