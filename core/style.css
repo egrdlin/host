@@ -1,6 +1,44 @@
 body {
     background-color: #e8eecff3;
+    font-size:  90%
 }
+
+header{
+	background: #e7dbdb;
+	text-align: center;
+}
+
+h1{
+	color: #e7dbdb;
+}
+
+nav{
+	font-variant: small-caps;
+	font-family: Lucida Console, Courier, monospace;;
+	font-size: 200%;
+}
+
+h2{
+	color: #666666;
+	background: #3a5f69af;
+}
+
+
+summary{
+	font-style:normal;
+}
+
+details{
+	font-style: italic;
+}
+
+
+footer{
+	background: #767980
+}
+
+
+
 #footer-logo
   {
     display: inline-block;
