@@ -18,7 +18,7 @@ nav{
 	font-size: 200%;
 }
 
-h2{
+h1,h2{
 	color: #666666;
 	background: #3a5f69af;
 }
@@ -31,12 +31,6 @@ summary{
 details{
 	font-style: italic;
 }
-
-#footer-logo
-  {
-    display: inline-block;
-    
-  } 
 
 footer{
 	background: #767980
