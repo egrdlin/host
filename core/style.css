@@ -4,7 +4,7 @@ body {
 }
 
 header{
-	background: #e7dbdb;
+	background: #b8aeae;
 	text-align: center;
 }
 
@@ -32,15 +32,14 @@ details{
 	font-style: italic;
 }
 
+#footer-logo
+  {
+    display: inline-block;
+    
+  } 
 
 footer{
 	background: #767980
 }
 
 
-
-#footer-logo
-  {
-    display: inline-block;
-    
-  } 
